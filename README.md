@@ -7,6 +7,7 @@ Summary: the raw data has all resturants in Foodpanda with name, rating, reviewe
 
 
 Dashboard details: https://public.tableau.com/app/profile/yongjian.huang/viz/FoodpandaResturantRating/Foodsummary
+
 Data source: https://www.kaggle.com/datasets/bwandowando/food-panda-resto-reviews
 
 Data cleansing and preparation steps (data_cleaning.ipynb)
